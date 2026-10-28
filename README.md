@@ -7,27 +7,8 @@
 </p>
 
 I'm interested in the whole journey from an idea to something people can use:
-the interface, the underlying systems, and the details that connect them. My
-work spans native macOS apps, real-time communication, web products,
-integrations, automation, and data visualisation.
-
-### Selected projects
-
-**[Gwar](https://github.com/MaciejWlodarski/gwar)** · Rust, web, desktop<br>
-A self-hosted voice communicator with browser and desktop clients and developing TeamSpeak compatibility.
-
-**[MCPM](https://github.com/MaciejWlodarski/mcpm)** · TypeScript, Node.js<br>
-A package manager and launcher for Minecraft: Java Edition mod profiles.
-
-**[Burrow](https://github.com/MaciejWlodarski/burrow)** · Swift, SwiftUI, AppKit<br>
-A native macOS file manager with dual-pane browsing, indexed search, and disk analysis.
-
-**[Personal website](https://github.com/MaciejWlodarski/maciejwlodarski.com)** · TanStack Start, React, Tailwind CSS<br>
-My portfolio, with interactive demos for 3D point clouds and data visualisation.
-
-### Beyond the repos
-
-I also build software and product personalisation tools for **STUDIO 3D**,
-and publish esports data analyses as [Zireael](https://x.com/ZireaelGG).
+the interface, the underlying systems, and the details that connect them. I also
+build software for **STUDIO 3D** and publish esports data analyses as
+[Zireael](https://x.com/ZireaelGG).
 
 Have an idea, a small improvement, or a bigger project? [Get in touch](mailto:me@maciejwlodarski.com).
