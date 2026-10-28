@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/banner.svg" alt="Maciej Włodarski — apps, integrations and 3D" width="100%"></h1>
+<h1 align="center"><img src="./assets/banner.svg" alt="Maciej Włodarski — apps, integrations and automation" width="100%"></h1>
 
 <p align="center">
   <a href="https://maciejwlodarski.com">Website</a> &nbsp;·&nbsp;
@@ -8,8 +8,8 @@
 
 I'm interested in the whole journey from an idea to something people can use:
 the interface, the underlying systems, and the details that connect them. My
-work spans native macOS apps, real-time communication, web products, 3D,
-integrations, and data visualisation.
+work spans native macOS apps, real-time communication, web products,
+integrations, automation, and data visualisation.
 
 ### Selected projects
 
@@ -27,7 +27,7 @@ My portfolio, with interactive demos for 3D point clouds and data visualisation.
 
 ### Beyond the repos
 
-I also work on 3D workflows and product personalisation for **STUDIO 3D**,
+I also build software and product personalisation tools for **STUDIO 3D**,
 and publish esports data analyses as [Zireael](https://x.com/ZireaelGG).
 
 Have an idea, a small improvement, or a bigger project? [Get in touch](mailto:me@maciejwlodarski.com).
