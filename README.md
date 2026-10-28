@@ -1,8 +1,4 @@
-<h1 align="center"><img src="./assets/banner.svg" alt="Maciej Włodarski — applications, systems and 3D" width="100%"></h1>
-
-<p align="center">
-  I build apps, tools, and experiences that make complex things easier to use.
-</p>
+<h1 align="center"><img src="./assets/banner.svg" alt="Maciej Włodarski — apps, integrations and 3D" width="100%"></h1>
 
 <p align="center">
   <a href="https://maciejwlodarski.com">Website</a> &nbsp;·&nbsp;
@@ -17,14 +13,14 @@ integrations, and data visualisation.
 
 ### Selected projects
 
-**[Burrow](https://github.com/MaciejWlodarski/burrow)** · Swift, SwiftUI, AppKit<br>
-A native macOS file manager with dual-pane browsing, indexed search, and disk analysis.
-
 **[Gwar](https://github.com/MaciejWlodarski/gwar)** · Rust, web, desktop<br>
 A self-hosted voice communicator with browser and desktop clients and developing TeamSpeak compatibility.
 
 **[MCPM](https://github.com/MaciejWlodarski/mcpm)** · TypeScript, Node.js<br>
 A package manager and launcher for Minecraft: Java Edition mod profiles.
+
+**[Burrow](https://github.com/MaciejWlodarski/burrow)** · Swift, SwiftUI, AppKit<br>
+A native macOS file manager with dual-pane browsing, indexed search, and disk analysis.
 
 **[Personal website](https://github.com/MaciejWlodarski/maciejwlodarski.com)** · TanStack Start, React, Tailwind CSS<br>
 My portfolio, with interactive demos for 3D point clouds and data visualisation.
